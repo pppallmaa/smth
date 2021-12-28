@@ -1,0 +1,2 @@
+# smth
+smth not bad
