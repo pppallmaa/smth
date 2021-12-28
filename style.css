@@ -1,0 +1,26 @@
+h1{
+    color: aqua;
+    border: 3px solid red;
+    display:inline
+}
+img{
+    border: 3px solid red;
+
+}
+a{
+    display: block;
+}
+video{
+    display: inline-block;
+    width: 90vw;
+}
+body{
+    text-align: center ;
+}
+
+
+a.pg2{
+    font-size: 45px;
+    color: green;
+
+}
